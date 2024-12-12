@@ -1,0 +1,135 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Long letter 南京大学版 Nanjing University Version
+% Version 1.0 (2022-03-27)
+
+% This template was revised by Zheng-hu Nie(brian.nie@gmail.com) based on Fanchao Chen (chenfc@fudan.edu.cn).
+% This template originates from:
+% https://www.LaTeXTemplates.com
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS 文档基础配置
+%----------------------------------------------------------------------------------------
+
+\documentclass{article}
+
+\usepackage{charter} % Use the Charter font
+
+\usepackage[
+	a4paper, % Paper size
+	top=1in, % Top margin
+	bottom=1in, % Bottom margin
+	left=1in, % Left margin
+	right=1in, % Right margin
+	%showframe % Uncomment to show frames around the margins for debugging purposes
+]{geometry}
+
+\setlength{\parindent}{0pt} % Paragraph indentation
+\setlength{\parskip}{1em} % Vertical space between paragraphs
+
+\usepackage{graphicx} % Required for including images
+
+\usepackage{hyperref}
+
+\usepackage{fancyhdr} % Required for customizing headers and footers
+
+\fancypagestyle{firstpage}{%
+	\fancyhf{} % Clear default headers/footers
+	\renewcommand{\headrulewidth}{0pt} % No header rule
+	\renewcommand{\footrulewidth}{1pt} % Footer rule thickness
+}
+
+\fancypagestyle{subsequentpages}{%
+	\fancyhf{} % Clear default headers/footers
+	\renewcommand{\headrulewidth}{1pt} % Header rule thickness
+	\renewcommand{\footrulewidth}{1pt} % Footer rule thickness
+}
+
+\AtBeginDocument{\thispagestyle{firstpage}} % Use the first page headers/footers style on the first page
+\pagestyle{subsequentpages} % Use the subsequent pages headers/footers style on subsequent pages
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	FIRST PAGE HEADER
+%----------------------------------------------------------------------------------------
+
+
+\vspace{-1em} % Pull the rule closer to the logo
+
+\rule{\linewidth}{1pt} % Horizontal rule
+
+%\bigskip\bigskip % Vertical whitespace
+
+%----------------------------------------------------------------------------------------
+%	YOUR NAME AND CONTACT INFORMATION
+%----------------------------------------------------------------------------------------
+
+\hfill
+\begin{tabular}{l @{}}
+\hfill \today \bigskip\\ % Date
+\hfill Manuel Ca\~{n}izares \\
+\hfill \href{mailto:mcanizares@bcamath.org}{mcanizares@bcamath.org}\\
+\hfill BCAM (Basque Center for Applied Mathematics)\\
+\hfill 48003. Bilbao, Spain \\ % Address
+\end{tabular}
+
+\bigskip % Vertical whitespace
+
+%----------------------------------------------------------------------------------------
+%	ADDRESSEE AND GREETING
+%----------------------------------------------------------------------------------------
+
+\begin{tabular}{@{} l}\\
+		\textit{Department of Mathematics and Statistics,}\\\textit{University of Jyv\"askyl\"a.}
+\end{tabular}
+
+\bigskip % Vertical whitespace
+
+Dear hiring team,
+
+\bigskip % Vertical whitespace
+
+%----------------------------------------------------------------------------------------
+%	LETTER CONTENT
+%----------------------------------------------------------------------------------------
+
+I am writing to express my interest in a postdoctoral position in the Department of Mathematics and Statistics. I am particularly interested in working in the inverse problems research group.
+
+I would like to tell you a little bit about my background, research and motivations. 
+
+In 2018, I obtained bachelor's degrees in both physics and mathematics through a double bachelor's program at the Universidad de Sevilla, Spain. I wrote my bachelor thesis while taking part in the Erasmus program at WWU M\"{u}nster, Germany. The thesis laid in the field of computational physics, I mainly conducted computer simulations to study phase transitions and the appearance of interfaces in the two dimensional Ising model with anti-periodic boundary conditions. This work resulted in a joint paper with my supervisor, Gernot M\"unster, published in 2020 in the \textit{Journal of Statistical Physics.}
+
+I then went on to study a master's degree on mathematical physics at Universidad de Granada, Spain, from which I graduated in 2020. I decided to shift my focus towards mathematical analysis, driven by a strong interest in understanding crowd dynamics.  Consequently, I contacted Juan Soler, who supervised my thesis on the Strogatz model of swarmallators. This model aims to explain systems in which there is an interplay between synchronization and aggregation phenomena, from a kinetic point of view.
+
+Following that, I had the opportunity to start a PhD under the supervision of Pedro Caro and Ioannis Parissis at the Basque Center for Applied Mathematics in Bilbao, Spain. They let me choose between focusing either on inverse problems or on more pure harmonic analysis. I chose the first one, since I feel like I am greatly motivated by the study of physical phenomena through mathematics.
+
+Prior to this experience, I had not been exposed to inverse problems. Therefore, my first year primarily focused on studying the background and techniques in analytical inverse problems. Pedro then proposed me that I extend a result that he and Andoni Garcia had published on 2020, on the identifiability of rough electric potentials via the near-field scattering pattern. 
+
+In November 2023, I submitted the result of my work as a paper for which I am the sole author. In this work, I obtained an inverse uniqueness result in a similar setting, in this case using local data. On the one hand, I used some harmonic analysis techniques to extend the class of potentials to consider. On the other hand, I proved runge approximation and interior regularity results to make use of the local data to obtain a suitable orthogonality relation. The paper was submitted to \textit{Inverse Problems}, and has already received positive reviews.
+
+At the moment, I am working on a generalization of a result that Pedro and Alberto Ruiz published recently. I hope to obtain identifiability on exponentially decreasing potentials in the setting of the intial-to-final value inverse problem for the Schr\"odinger evolution equation. This relies on constructing an analytic family of special solutions -akin to CGO solutions- to the equation, following the work of Uhlmann and Vasy, and P\"aiv\"arinta, Salo and Uhlmann. However, the nature of the operator asks us to prove also a new local smoothing estimate to construct this family of solutions in the right spaces.
+
+From April to July, I will be on an international stay at Universit\`{e} de Bordeaux under the supervision of Sylvain Ervedoza. We plan on studying applications of $L^p$ Carleman estimates either to inverse problems or control theory. All this will be part of my PhD thesis, which I plan on defending in September, at the latest.
+
+With all honesty, sometimes I wish it had taken me less time to complete my first work. However, I am grateful that my supervisors gave me such freedom, for I am confident that this has allowed me to reach a high level of independence, intuition and maturity in my research. Overall, I feel like my motivation and my work ethic is still growing every day.
+
+Last, but not least, I would like to emphasize that I feel energized by and about research dissemination. I feel like I can convey mathematical ideas in an intuitive way. Besides short talks at the Inverse Days in Kuopio, Finland, and at the HAPDEGMT conference in Bilbao, Spain, I have given long form talks at the Analysis Seminar in Barcelona and at the Mathematical Analyisis Days in Logro\~no, Spain. However, I would say that another important part of my experience comes from the fact that I have been giving reinforcement classes at high school and university levels for several years, both one-on-one and to classes of up to 30 students. I always give them passionately, and find a lot of enjoyment in it.
+
+I am really eager to keep fostering my career as a researcher, and look forward to meeting a new group of like-minded people with whom I can work and develop new knowledge. I would like to keep tackling problems in the realm of analytical inverse problems. For instance, I would like to look for stability estimates for the problems that I have been studying. However, I am driven by the possibility of learning new techniques and working in new domains of research, either in other aspects of inverse problems, or any other topic related to the analysis of PDEs.
+
+Please feel free to contact me for any further information.
+\bigskip % Vertical whitespace
+
+Sincerely yours,
+
+%\vspace{5pt} % Vertical whitespace
+
+Manuel Ca\~{n}izares\\
+
+\end{document}
+
+% To PIZZA, a famous fat-ass cat who lived in Dorm 12.

@@ -1,54 +1,53 @@
-PWD /home/mcanizares/MyPapers/CV 2
+PWD /home/mcanizares/cvandmore/CV
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
-INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/mcanizares/MyPapers/CV 2/resume.tex
-OUTPUT /home/mcanizares/MyPapers/CV 2/resume.log
-INPUT /home/mcanizares/MyPapers/CV 2/resume.cls
-INPUT /home/mcanizares/MyPapers/CV 2/resume.cls
+INPUT /var/lib/texmf/web2c/xetex/xelatex.fmt
+INPUT /home/mcanizares/cvandmore/CV/resume.tex
+OUTPUT /home/mcanizares/cvandmore/CV/resume.log
+INPUT /home/mcanizares/cvandmore/CV/resume.cls
+INPUT /home/mcanizares/cvandmore/CV/resume.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+INPUT /usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/scalerel/scalerel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/scalerel/scalerel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/bbding/bbding.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/bbding/bbding.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/pifont.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/pifont.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/upzd.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/upzd.fd
 INPUT /usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
-INPUT /usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/scalerel/scalerel.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/scalerel/scalerel.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/bbding/bbding.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/bbding/bbding.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/pifont.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/pifont.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/upzd.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/upzd.fd
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/upsy.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/upsy.fd
@@ -78,8 +77,13 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/stringenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/stringenc.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/mdwtools/footnote.sty
@@ -90,55 +94,62 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesome.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesome.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic.tex
 INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic.tex
-INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-pdftex.tex
-INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-pdftex.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/unicode-data/UnicodeData.txt
+INPUT /usr/share/texlive/texmf-dist/tex/generic/unicode-data/CaseFolding.txt
+INPUT /usr/share/texlive/texmf-dist/tex/generic/unicode-data/SpecialCasing.txt
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/tuenc.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/tuenc.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/tuenc.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-xeluatex.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-xeluatex.tex
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
-INPUT /home/mcanizares/MyPapers/CV 2/resume.aux
-INPUT /home/mcanizares/MyPapers/CV 2/resume.aux
-OUTPUT /home/mcanizares/MyPapers/CV 2/resume.aux
-INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /home/mcanizares/cvandmore/CV/resume.aux
+INPUT /home/mcanizares/cvandmore/CV/resume.aux
+OUTPUT /home/mcanizares/cvandmore/CV/resume.aux
 INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-INPUT /home/mcanizares/MyPapers/CV 2/resume.out
-INPUT /home/mcanizares/MyPapers/CV 2/resume.out
-INPUT /home/mcanizares/MyPapers/CV 2/resume.out
-INPUT /home/mcanizares/MyPapers/CV 2/resume.out
-INPUT /home/mcanizares/MyPapers/CV 2/resume.out
-INPUT /home/mcanizares/MyPapers/CV 2/resume.out
-OUTPUT /home/mcanizares/MyPapers/CV 2/resume.out
-OUTPUT /home/mcanizares/MyPapers/CV 2/resume.pdf
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbxti10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbxti10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT /home/mcanizares/cvandmore/CV/resume.out
+INPUT /home/mcanizares/cvandmore/CV/resume.out
+INPUT /home/mcanizares/cvandmore/CV/resume.out
+INPUT /home/mcanizares/cvandmore/CV/resume.out
+OUTPUT /home/mcanizares/cvandmore/CV/resume.out
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
-INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
-INPUT /home/mcanizares/MyPapers/CV 2/resume.aux
-INPUT /home/mcanizares/MyPapers/CV 2/resume.out
-INPUT /home/mcanizares/MyPapers/CV 2/resume.out
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
+INPUT /home/mcanizares/cvandmore/CV/resume.aux
